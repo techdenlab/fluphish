@@ -3,7 +3,7 @@
 
 ## Author: github.com/techdenlab
 
-## IG: instagram.com/thelinuxchoice
+## IG: instagram.com/hayden_coding
 
 ### Don't copy this code without give me the credits, nerd! 
 
@@ -29,7 +29,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ```
 
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/techdenlab/fluphish.git
 
 cd shellphish
 
@@ -45,4 +45,4 @@ Support the authors:
 
 
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://paypal.me/techdenlab"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
